@@ -1,0 +1,11 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/usr/bin/make -DCMAKE_C_COMPILER=/Library/Developer/CommandLineTools/usr/bin/gcc -DCMAKE_CXX_COMPILER=/Library/Developer/CommandLineTools/usr/bin/g++ -G "CodeBlocks - Unix Makefiles" -S /Users/slavick.snegirevicloud.com/CLionProjects/lab5 -B /Users/slavick.snegirevicloud.com/CLionProjects/lab5/cmake-build-debug
+-- Found OpenGL: /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk/System/Library/Frameworks/OpenGL.framework   
+-- Found PkgConfig: /opt/local/bin/pkg-config (found version "0.29.2") 
+-- Checking for module 'glut'
+--   No package 'glut' found
+-- Found GLUT: /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk/System/Library/Frameworks/GLUT.framework  
+-- Found GLM: /usr/local/include  
+-- GLM_INCLUDE_DIR = /usr/local/include
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/slavick.snegirevicloud.com/CLionProjects/lab5/cmake-build-debug
